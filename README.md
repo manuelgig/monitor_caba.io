@@ -3,7 +3,7 @@
 
 An interactive dashboard written in Python, with Bokeh, to explore contagion data published daily by the Government of Buenos Aires.
 
-Available <a href='https://monitor-caba.herokuapp.com/monitor_caba_v1'>here</a> as a Heroku app.
+Deployed as a Heroku app, available following <a href='https://monitor-caba.herokuapp.com/monitor_caba_v1'>thsi link</a>.
 
 --
 
